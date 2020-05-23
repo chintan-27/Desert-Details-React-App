@@ -1,3 +1,31 @@
+# Desert Details React App
+This is a project creates for practice about the desert details.The main page shows the view of desert and name with 4 cards about the desert.
+
+![Main page](https://github.com/chintan-27/Desert-Details-React-App/blob/master/1.JPG)
+
+
+On hovering the cards we can click on know more to know more details.
+
+![Main page 2](https://github.com/chintan-27/Desert-Details-React-App/blob/master/2.JPG)
+
+
+On clicking on know more we are show a model as well as the details with back drop and close button . On clicking the backdrop or close button the modal is closed
+
+![Main page 2](https://github.com/chintan-27/Desert-Details-React-App/blob/master/4.JPG)
+
+
+On clicking on nav bar link about we get overall information about the desert. We have used react-router for fast routing without loading.
+
+![Main page 2](https://github.com/chintan-27/Desert-Details-React-App/blob/master/3.JPG)
+
+
+This is a responsive website.
+Flaws:
+* Better styling
+* Dynamic Data
+
+### This is just a practice app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
